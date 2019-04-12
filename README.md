@@ -4,4 +4,13 @@
   * The player will face obstacles like monsters and bombs
   * The player will find gifts like armor, bullets and health
   
+### Design patterns used
+ * Singleton
+ * Factory
+ * State
+ * Observer
+ * Memento
+ * Decorator
+ 
+  
 
