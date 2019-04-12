@@ -4,7 +4,7 @@
   * The player will face obstacles like monsters and bombs
   * The player will find gifts like armor, bullets and health
   
-### Design patterns used
+### Design patterns used:
  * Singleton
  * Factory
  * State
@@ -12,5 +12,7 @@
  * Memento
  * Decorator
  
+ ![maze-runner](https://user-images.githubusercontent.com/48100957/56068097-dbb6db80-5d7d-11e9-9f38-35f937a6a60a.png)
+
   
 
